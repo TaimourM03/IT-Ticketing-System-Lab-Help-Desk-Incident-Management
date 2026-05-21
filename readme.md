@@ -158,6 +158,13 @@ Proper categorization helps route tickets to the correct support team.
 
 Indicates how urgent and impactful the issue is.
 
+| Priority          | Severity  | Description                                | Example                       |
+| ----------------- | --------- | ------------------------------------------ | ----------------------------- |
+| **P1 - Critical** | Very High | Major business outage affecting many users | Company-wide internet outage  |
+| **P2 - High**     | High      | Important functionality unavailable        | Email server failure          |
+| **P3 - Medium**   | Moderate  | Single-user or limited issue               | Outlook sync issue            |
+| **P4 - Low**      | Low       | Minor inconvenience or request             | Software installation request |
+
 Priority depends on:
 
 * Business impact
@@ -193,19 +200,6 @@ Common statuses include:
 This is an example of what a ticketing system would look like:
 
 <img src="/images/3.png" alt="ERROR LOADING IMAGE" style="display: block; margin-left: auto; margin-right: auto;" /> 
-
-<br><br><br>
-
-
----
-# 📊 Ticket Priority Levels
----
-| Priority          | Severity  | Description                                | Example                       |
-| ----------------- | --------- | ------------------------------------------ | ----------------------------- |
-| **P1 - Critical** | Very High | Major business outage affecting many users | Company-wide internet outage  |
-| **P2 - High**     | High      | Important functionality unavailable        | Email server failure          |
-| **P3 - Medium**   | Moderate  | Single-user or limited issue               | Outlook sync issue            |
-| **P4 - Low**      | Low       | Minor inconvenience or request             | Software installation request |
 
 <br><br><br>
 
